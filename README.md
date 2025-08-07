@@ -1,1 +1,0 @@
-# SQL_Project_Data_Academy
